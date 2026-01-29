@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 386.1185712814331,
+  "sizeMB": 389.3471803665161,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1833,6 +1833,7 @@
     "mario_jeux_flash_game",
     "mission-clover",
     "hapland",
-    "snake-grunger_flash"
+    "snake-grunger_flash",
+    "coal-express-2"
   ]
 }
