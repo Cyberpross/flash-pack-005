@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 244.29093265533447,
+  "sizeMB": 244.9151782989502,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1780,6 +1780,7 @@
     "pjinns_super_mario",
     "pizza-city-4487",
     "pairs_202403",
-    "orion-sandbox"
+    "orion-sandbox",
+    "light-bot_20201220_2143"
   ]
 }
