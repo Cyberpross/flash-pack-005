@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 547.0347719192505,
+  "sizeMB": 547.1582832336426,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1907,6 +1907,7 @@
     "1100_bad_dudes",
     "1100_CastleDefender",
     "1100_FSM_game",
-    "1100_Metaphysik"
+    "1100_Metaphysik",
+    "1100_among_the_clouds"
   ]
 }
