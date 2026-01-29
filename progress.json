@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 66.3041296005249,
+  "sizeMB": 66.35930252075195,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1744,6 +1744,7 @@
     "1100_bug",
     "1100_neon_genesis_evangelion",
     "1100_onsen_game",
-    "1100_osama_slots"
+    "1100_osama_slots",
+    "2607-tank-wars"
   ]
 }
