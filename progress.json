@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 372.74781036376953,
+  "sizeMB": 379.1101026535034,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1827,6 +1827,7 @@
     "stackopolis-1.0",
     "industrial-truck-racing",
     "princess-maker-4-dancing-queen",
-    "run2_20220410"
+    "run2_20220410",
+    "scgmd-2-old"
   ]
 }
