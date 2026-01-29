@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 453.4473886489868,
+  "sizeMB": 453.530611038208,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1856,6 +1856,7 @@
     "army-destroyer",
     "jungle-fruit_flash",
     "arcuz-2-dungeons",
-    "vproto"
+    "vproto",
+    "logic_matches"
   ]
 }
