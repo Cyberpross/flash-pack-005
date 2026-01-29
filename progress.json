@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 721.7512636184692,
+  "sizeMB": 722.0251197814941,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1998,6 +1998,7 @@
     "kim-possible-hexagon-puzzle",
     "kitchen_mania",
     "jessie-characters-puzzle",
-    "lpda_20240313"
+    "lpda_20240313",
+    "lum_20240102"
   ]
 }
