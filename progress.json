@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 34.424588203430176,
+  "sizeMB": 34.722801208496094,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1725,6 +1725,7 @@
     "1100_super_mushroom_mario",
     "1100_toon_marooned_protect_the_fier",
     "1100_tourist_trap",
-    "1100_rally_2100"
+    "1100_rally_2100",
+    "trogdor_flash"
   ]
 }
