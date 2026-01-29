@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 460.2471036911011,
+  "sizeMB": 460.6247682571411,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1867,6 +1867,7 @@
     "chatarra2",
     "cheese-quest",
     "nbaskill",
-    "canyon-glider"
+    "canyon-glider",
+    "cannibals-missioneries"
   ]
 }
