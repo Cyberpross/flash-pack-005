@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 499.3157196044922,
+  "sizeMB": 502.287784576416,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1887,6 +1887,7 @@
     "espio-jigsaw-puzzle",
     "cyber_slots",
     "magical_mix",
-    "itsagame_202408"
+    "itsagame_202408",
+    "idle-empire"
   ]
 }
