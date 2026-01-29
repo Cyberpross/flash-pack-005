@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 414.6258487701416,
+  "sizeMB": 415.56675243377686,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1849,6 +1849,7 @@
     "robotmasters",
     "party-slacking",
     "trivialtetris",
-    "the-vicars-flash-site"
+    "the-vicars-flash-site",
+    "yojo-dance_202312"
   ]
 }
