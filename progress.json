@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 548.2806282043457,
+  "sizeMB": 548.3264064788818,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1910,6 +1910,7 @@
     "1100_Metaphysik",
     "1100_among_the_clouds",
     "1100_go_santa",
-    "1100_gopher_war"
+    "1100_gopher_war",
+    "1100_hexxagon"
   ]
 }
