@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 548.3315382003784,
+  "sizeMB": 552.9208011627197,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1912,6 +1912,7 @@
     "1100_go_santa",
     "1100_gopher_war",
     "1100_hexxagon",
-    "1100_x_o_2"
+    "1100_x_o_2",
+    "02spinnercay"
   ]
 }
