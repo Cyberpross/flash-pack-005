@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 544.926344871521,
+  "sizeMB": 545.8738584518433,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1905,6 +1905,7 @@
     "bipole_202108",
     "15-aevil",
     "1100_bad_dudes",
-    "1100_CastleDefender"
+    "1100_CastleDefender",
+    "1100_FSM_game"
   ]
 }
