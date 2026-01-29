@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 461.36535453796387,
+  "sizeMB": 461.45801734924316,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1871,6 +1871,7 @@
     "cannibals-missioneries",
     "nurie01",
     "colourshift",
-    "create_a-ride-version-2.0"
+    "create_a-ride-version-2.0",
+    "tree_house_decoration"
   ]
 }
