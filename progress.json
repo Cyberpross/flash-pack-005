@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 606.3383140563965,
+  "sizeMB": 606.6907901763916,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1947,6 +1947,7 @@
     "whack-v-2",
     "1100_bomber_fortress",
     "1100_jetpack",
-    "1100_znax"
+    "1100_znax",
+    "1100_thump"
   ]
 }
