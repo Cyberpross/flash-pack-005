@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 609.143482208252,
+  "sizeMB": 609.2980184555054,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1950,6 +1950,7 @@
     "1100_znax",
     "1100_thump",
     "1100_FruitDrop",
-    "1100_horse"
+    "1100_horse",
+    "1100_smiley_rush"
   ]
 }
