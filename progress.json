@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 414.4988775253296,
+  "sizeMB": 414.6258487701416,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1848,6 +1848,7 @@
     "parappaquizdemoflashgame",
     "robotmasters",
     "party-slacking",
-    "trivialtetris"
+    "trivialtetris",
+    "the-vicars-flash-site"
   ]
 }
