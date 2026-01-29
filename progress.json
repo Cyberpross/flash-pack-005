@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 497.88210010528564,
+  "sizeMB": 498.01876068115234,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1884,6 +1884,7 @@
     "car-park-chaos",
     "2112-cooperation_flash",
     "escape-the-red-giant",
-    "espio-jigsaw-puzzle"
+    "espio-jigsaw-puzzle",
+    "cyber_slots"
   ]
 }
