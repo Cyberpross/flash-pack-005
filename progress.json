@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 385.31438732147217,
+  "sizeMB": 385.5281066894531,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1830,6 +1830,7 @@
     "run2_20220410",
     "scgmd-2-old",
     "1100_santas_sack",
-    "mario_jeux_flash_game"
+    "mario_jeux_flash_game",
+    "mission-clover"
   ]
 }
