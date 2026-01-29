@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 671.9326763153076,
+  "sizeMB": 680.0104131698608,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1982,6 +1982,7 @@
     "primeval-flash",
     "princess-quiz",
     "homerun_202101",
-    "o-channel-fortune-cookie_202501"
+    "o-channel-fortune-cookie_202501",
+    "number-days-sim-date_202404"
   ]
 }
