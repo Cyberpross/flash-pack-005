@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 502.287784576416,
+  "sizeMB": 516.7845754623413,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1888,6 +1888,7 @@
     "cyber_slots",
     "magical_mix",
     "itsagame_202408",
-    "idle-empire"
+    "idle-empire",
+    "example_2flash"
   ]
 }
