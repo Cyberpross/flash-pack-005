@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 459.3699645996094,
+  "sizeMB": 459.9851379394531,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1865,6 +1865,7 @@
     "1100_absalom",
     "miniaturemario_flash",
     "chatarra2",
-    "cheese-quest"
+    "cheese-quest",
+    "nbaskill"
   ]
 }
