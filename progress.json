@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 498.01876068115234,
+  "sizeMB": 499.30543518066406,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1885,6 +1885,7 @@
     "2112-cooperation_flash",
     "escape-the-red-giant",
     "espio-jigsaw-puzzle",
-    "cyber_slots"
+    "cyber_slots",
+    "magical_mix"
   ]
 }
