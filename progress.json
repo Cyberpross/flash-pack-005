@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 414.4178218841553,
+  "sizeMB": 414.4988775253296,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1847,6 +1847,7 @@
     "office-slacking_13",
     "parappaquizdemoflashgame",
     "robotmasters",
-    "party-slacking"
+    "party-slacking",
+    "trivialtetris"
   ]
 }
