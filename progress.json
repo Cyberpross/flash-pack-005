@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 390.85910415649414,
+  "sizeMB": 399.4703731536865,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1835,6 +1835,7 @@
     "hapland",
     "snake-grunger_flash",
     "coal-express-2",
-    "the-slimy-murderer"
+    "the-slimy-murderer",
+    "the-pacer"
   ]
 }
