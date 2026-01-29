@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 264.0478410720825,
+  "sizeMB": 264.33919525146484,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1789,6 +1789,7 @@
     "oobi-rhyme-game.swf",
     "number_song",
     "holiday-treats-for-the-mouse-king",
-    "hiddenLOSG"
+    "hiddenLOSG",
+    "hit-the-dot"
   ]
 }
