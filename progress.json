@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 460.75315380096436,
+  "sizeMB": 461.36535453796387,
   "completed": [
     "1100_spore_cubes",
     "1100_SparkYourNeurons",
@@ -1870,6 +1870,7 @@
     "canyon-glider",
     "cannibals-missioneries",
     "nurie01",
-    "colourshift"
+    "colourshift",
+    "create_a-ride-version-2.0"
   ]
 }
