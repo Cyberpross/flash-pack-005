@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 81.01371097564697,
+  "sizeMB": 81.37649726867676,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1481,6 +1481,7 @@
     "flash_oreo-os-extreme-creme-control",
     "flash_spaceinvaders",
     "flash_tacticalassassin3",
-    "fun-robotbuilder"
+    "fun-robotbuilder",
+    "flyswatter"
   ]
 }
