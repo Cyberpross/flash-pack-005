@@ -1,6 +1,6 @@
 {
   "pack": 5,
-  "sizeMB": 773.1577863693237,
+  "sizeMB": 774.1827793121338,
   "done": [
     "avatar-designer",
     "aiw-00-prequel",
@@ -1698,6 +1698,7 @@
     "goime-500-old",
     "game_20210719",
     "grid_20210729",
-    "gemmania_flash"
+    "gemmania_flash",
+    "gofish_swf"
   ]
 }
